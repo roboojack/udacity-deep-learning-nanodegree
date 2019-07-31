@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deep-learning-v2-pytorch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flappybird/DeepLearningFlappyBird" vcs="Git" />
+  </component>
+</project>
